@@ -1,0 +1,11 @@
+{
+    "name": "ibeko/hello",
+    "description": "hello package composer for php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibeko\\Hello\\": "src/"
+        }
+    },
+    "require": {}
+}
